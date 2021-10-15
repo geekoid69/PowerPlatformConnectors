@@ -1,4 +1,4 @@
-Easily alter office documents with AikiDocs for Power Automate
+Easily make automated changes to office documents with AikiDocs for Power Automate
 
 ## Prerequisites
 
